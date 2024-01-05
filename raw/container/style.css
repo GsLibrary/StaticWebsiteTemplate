@@ -1,8 +1,3 @@
-* {
-    user-select: none;
-    cursor: crosshair;
-}
-
 /*  
 1A1A1A > 2E2E2E > 444444
 font-family: 'Onest', sans-serif;
@@ -12,6 +7,11 @@ font-family: 'Anton', sans-serif;
 font-family: 'Nosifer', sans-serif;
 font-family: 'Oswald', sans-serif;
 */
+
+* {
+    user-select: none;
+    cursor: auto;
+}
 
 body {
     background-color: #1A1A1A;
