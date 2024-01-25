@@ -1,5 +1,15 @@
 # Static Website Template
 
-My Prebuilt Website. Its Basically A Template For My Static Websites, Cause I'm Working Alot Away From Home So I Dont Have The Easy Accessibilities, Thankfully This Makes It Easier For Me! Feel Free To Fork And Make Your Own!
+## An easy-to-download and setup build for a static website.
 
-Credit Goes To minhaskamal For Easy Redirect In The Index To Download A Zip Of The Latest Prebuild Using DownGit.
+<p align="center">  <img src="https://img.shields.io/badge/Latest_Version-1.0.8-red?labelColor=2a2a2a" alt="Static Badge"> <a href="http://swt.gavs.xyz/gen">  <img src="https://img.shields.io/badge/Download_Latest_Version-%E2%96%BC-red?labelColor=2a2a2a" alt="Download"> </a> </p>
+
+### This project includes 
+* Nice Indented Base Code (head, body, linkings, etc)
+* Preset For Formatting (CSS, and JS)
+* The Use Of GsLibrary
+
+###  Credit Goes To
+* **@minhaskamal** for easy redirecting to get the latest build with DownGit. 
+  * <a href="https://github.com/minhaskamal">Their Github Page</a>
+  * <a href="https://github.com/MinhasKamal/DownGit">DownGit Repo</a>
