@@ -2,7 +2,7 @@
 
 ## An easy-to-download and setup build for a static website.
 
-<p align="center">  <img src="https://img.shields.io/badge/Latest_Version-1.0.8-red?labelColor=2a2a2a" alt="Static Badge"> <a href="http://swt.gavs.xyz/gen">  <img src="https://img.shields.io/badge/Download_Latest_Version-%E2%96%BC-red?labelColor=2a2a2a" alt="Download"> </a> </p>
+<p align="center">  <img src="https://img.shields.io/badge/Latest_Version-1.0.9-red?labelColor=2a2a2a" alt="Static Badge"> <a href="http://swt.gavs.xyz/gen">  <img src="https://img.shields.io/badge/Download_Latest_Version-%E2%96%BC-red?labelColor=2a2a2a" alt="Download"> </a> </p>
 
 ### This project includes 
 * Nice Indented Base Code (head, body, linkings, etc)
