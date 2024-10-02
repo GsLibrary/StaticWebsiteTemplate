@@ -12,10 +12,12 @@
     /* font-family: 'Oswald', sans-serif; */
     /* font-family: 'Luckiest Guy', cursive; */
     /* font-family: 'Ubuntu Titling Bold', sans-serif; */
+    /* font-family: 'OnelySans', sans-serif; */ /* I Have Purchased A License To Use This For Commercial Purposes, But If You Haven't, Please Don't. */
 
 * {
     user-select: none;
     cursor: auto;
+    /* box-sizing: border-box; */
 }
 
 body {
