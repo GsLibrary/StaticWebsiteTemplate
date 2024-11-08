@@ -1,26 +1,34 @@
-/* Color Recommendations */  
-/* Note: First Color Is Darkest, Last One Is Lighest */
-    /* Dark Color Scheme */
-    /* 1A1A1A > 2E2E2E > 444444 */
-
-/* Font's Imported With GsLibrary */
-    /* font-family: 'Onest', sans-serif; */
-    /* font-family: 'Rubik', sans-serif; */
-    /* font-family: 'Ubuntu', sans-serif; */
-    /* font-family: 'Lato', sans-serif; */
-    /* font-family: 'Anton', sans-serif; */
-    /* font-family: 'Oswald', sans-serif; */
-    /* font-family: 'Luckiest Guy', cursive; */
-    /* font-family: 'Ubuntu Titling Bold', sans-serif; */
-    /* font-family: 'OnelySans', sans-serif; */ /* I Have Purchased A License To Use This For Commercial Purposes, But If You Haven't, Please Don't. */
+/* Root is where im storing variables. This is for things like fonts, colors, etc. */
+/* Use the fonts by setting the value to var(--VARIABLE) */
+:root {
+    /* Night Mode Themed Colors */
+    --NM1: #1A1A1A;
+    --NM2: #242424;
+    --NM3: #2E2E2E;
+    --NM4: #383838;
+    --NM5: #444444;
+    --NM6: #5C5C5C;
+    --NM7: #787878;
+    /* Font's Imported With GsLibrary */
+    --F-Onest: 'Onest';
+    --F-Rubik: 'Rubik';
+    --F-Ubuntu: 'Ubuntu';
+    --F-Lato: 'Lato';
+    --F-Anton: 'Anton';
+    --F-Oswald: 'Oswald';
+    --F-LuckiestGuy: 'Luckiest Guy';
+    --F-UbuntuTitlingBold: 'Ubuntu Titling Bold';
+    /* I Have Purchased A License To Use This For Commercial Purposes, But If You Haven't, Please Don't Use It For Commercial Purposes. */
+    --F-OnelySans: 'OnelySans';
+}
 
 * {
     user-select: none;
     cursor: auto;
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
 }
 
 body {
-    background-color: #1A1A1A;
+    background-color: var(--NM1);
     color: white;
 }
